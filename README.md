@@ -1,2 +1,2 @@
-# pfsense_netgate_3100_startscript
-pfsense_netgate_3100_startscript
+# Disable the flashing LEDs after startup for pfsense netgate 3100
+This script disables the flashing LEDs after startup.
